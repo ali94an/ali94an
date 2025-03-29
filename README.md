@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Ali Abu Nimah
 
-🚀 **Data Analyst | Business Intelligence | UI/UX Enthusiast**  
+🚀 **Data Scientist**  
 📍 Nablus, Palestine | 📧 [Email](mailto:alibassab25@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/ali94an/)
 
 ---
