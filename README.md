@@ -10,7 +10,7 @@ Data Scientist with a strong foundation in statistical analysis, predictive mode
 
 - 🎓 **Graduated First in Cohort** (An-Najah National University)  
 - 📊 **Expertise in:** Python, Power BI, SQL, SPSS, Excel, Figma  
-- 🏆 **Udacity Data Analytics Nanodegree** Graduate  
+- 🏆 **Udacity Data Analytics and Intro to Machine Learning with TensorFlow Nanodegrees** Graduate  
 - 🔍 Currently exploring **Machine Learning & AI-Powered Analytics**
 
 ---
@@ -44,8 +44,8 @@ More projects on [GitHub](https://github.com/ali94an)!
 
 ## 🚀 Education & Certifications
 - **🎓 Axsos Academy - Data Science & Machine Learning** *(Feb 2025 - Jun 2025)*
-- **🎓 Udacity - Data Analyst Nanodegree** *(Oct 2024 - Jan 2025)*
 - **🎓 Udacity - Intro to ML with TensorFlow** *(Feb 2025 - Jun 2025)*
+- **🎓 Udacity - Data Analyst Nanodegree** *(Oct 2024 - Jan 2025)*
 - **🎓 An-Najah National University - BSc. MIS** *(Sep 2021 - Feb 2025)*
 
 ---
