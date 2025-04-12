@@ -6,7 +6,7 @@
 ---
 
 ## 🔹 About Me
-I'm a **Management Information Systems (MIS) graduate** with a passion for **data analytics, business intelligence, and UI/UX design**. I leverage Python, SQL, and Power BI to transform data into actionable insights and create seamless user experiences. My expertise also extends to strategic IT planning, CRM, and digital transformation.
+Data Scientist with a strong foundation in statistical analysis, predictive modeling, and business intelligence. Proficient in Python, SQL, Power BI, Excel, and SPSS, with hands-on experience in transforming complex datasets into actionable insights that drive strategic decisions. Skilled in data wrangling, visualization, and machine learning, with a background in Management Information Systems that bridges technical and business domains. Passionate about leveraging data to solve real-world problems and create measurable impact across industries.
 
 - 🎓 **Graduated First in Cohort** (An-Najah National University)  
 - 📊 **Expertise in:** Python, Power BI, SQL, SPSS, Excel, Figma  
@@ -20,7 +20,7 @@ I'm a **Management Information Systems (MIS) graduate** with a passion for **dat
 - **Programming & Data Analysis:** Python (Pandas, Matplotlib, Seaborn, Scikit-Learn), SQL, Excel, Power BI, SPSS  
 - **UI/UX Design:** Figma (Wireframing, Prototyping, User Research)  
 - **Business & IT:** ERP, CRM, Agile, Business Process Analysis  
-- **Machine Learning:** TensorFlow (Ongoing)
+- **Machine Learning:** TensorFlow
 
 ---
 
