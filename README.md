@@ -1,12 +1,14 @@
 # Hi there! 👋 I'm Ali Abu Nimah
 
-🚀 **Data Scientist**  
+🚀 **Turning data into insight through Python & Power BI | Forecasting & Predictive Modeling | ML & Data Analyst**  
 📍 Nablus, Palestine | 📧 [Email](mailto:alibassab25@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/ali94an/)
 
 ---
 
 ## 🔹 About Me
-Data Scientist with a strong foundation in statistical analysis, predictive modeling, and business intelligence. Proficient in Python, SQL, Power BI, Excel, and SPSS, with hands-on experience in transforming complex datasets into actionable insights that drive strategic decisions. Skilled in data wrangling, visualization, and machine learning, with a background in Management Information Systems that bridges technical and business domains. Passionate about leveraging data to solve real-world problems and create measurable impact across industries.
+I work at the intersection of data analysis and machine learning—using Python and Power BI, to turn raw data into real, usable insight.
+I specialize in predictive modeling, forecasting, and building dashboards that help teams understand patterns and make informed decisions.
+My workflow includes data cleaning, feature engineering, model evaluation, and delivering results through clear visualizations.
 
 - 🎓 **Graduated First in Cohort** (An-Najah National University)  
 - 📊 **Expertise in:** Python, Power BI, SQL, SPSS, Excel, Figma  
